@@ -59,23 +59,23 @@ AppAsset::register($this);
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="margin-top: -20px;">
                     <ul class="nav navbar-nav">
-                        <li class="hidden">
+                        <li >
                             <a href="#page-top">Home</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#services" style="color: #FFFFFF">Services</a>
+                            <a class="page-scroll" href="#services" style="color: #FFFFFF">Serviços</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#portfolio" style="color: #FFFFFF">Portfolio</a>
+                            <a class="page-scroll" href="#portfolio" style="color: #FFFFFF">Portfólio</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#about" style="color: #FFFFFF">About</a>
+                            <a class="page-scroll" href="#about" style="color: #FFFFFF">Sobre Nós</a>
                         </li>
                         <li>
                             <a class="page-scroll" href="#team" style="color: #FFFFFF">Team</a>
                         </li>
                         <li>
-                            <a class="page-scroll" href="#contact"style="color: #FFFFFF">Contact</a>
+                            <a class="page-scroll" href="#contact"style="color: #FFFFFF">Contato</a>
                         </li>
                     </ul>
                 </div>
@@ -86,9 +86,9 @@ AppAsset::register($this);
 
             <div class="intro-text">
 
-                <div class="intro-lead-in">Welcome To Our Studio!</div>
-                <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+                <div class="intro-lead-in">Bem Vindo ao Estudio Developer</div>
+                <div class="intro-heading">Nosso é o prazer em te conhecer</div>
+                <a href="#services" class="page-scroll btn btn-xl">Veja nossos Serviços</a>
             </div>
         </div>
     </header>
@@ -107,7 +107,7 @@ AppAsset::register($this);
 </div>
 <footer class="footer">
     <div class="container">
-        <p class="pull-left">&copy; My Company <?= date('Y') ?></p>
+        <p class="pull-left">&copy; ITDeveloper <?= date('Y') ?></p>
 
         <p class="pull-right"><?= Yii::powered() ?></p>
     </div>
