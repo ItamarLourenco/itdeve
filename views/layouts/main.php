@@ -35,8 +35,8 @@ AppAsset::register($this);
 
 <?php $this->beginBody() ?>
 
+<div class="wrap">
 
-<nav class="navbar navbar-default navbar-fixed-top">
     <header>
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -92,7 +92,6 @@ AppAsset::register($this);
             </div>
         </div>
     </header>
-</nav>
 
 
 <!-- Header -->
@@ -105,7 +104,7 @@ AppAsset::register($this);
     <?= $content ?>
 </div>
 
-
+</div>
 <footer class="footer">
     <div class="container">
         <p class="pull-left">&copy; My Company <?= date('Y') ?></p>
