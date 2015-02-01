@@ -42,7 +42,8 @@ AppAsset::register($this);
             <!-- Brand and toggle get grouped for better mobile display -->
 
             <div class="alinhamenu">
-                <div class="navbar-header page-scroll">
+                <nav class="navbar navbar-default navbar-fixed-top">
+                    <div class="navbar-header page-scroll">
                     <a class="navbar-brand page-scroll" href="#page-top"><img src="imagens/logo.png"/> </a>
                     <button type="button" class="navbar-toggle" data-toggle="collapse"
                             data-target="#bs-example-navbar-collapse-1">
@@ -53,6 +54,7 @@ AppAsset::register($this);
                     </button>
 
                 </div>
+
                 <br>
                 <hr style="color: #FFFFFF; margin-top: 70px; ">
 
@@ -79,7 +81,10 @@ AppAsset::register($this);
                         </li>
                     </ul>
                 </div>
+
+
             </div>
+            </nav>
             <!-- /.navbar-collapse -->
 
             <!-- /.container-fluid -->
