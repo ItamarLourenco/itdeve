@@ -50,7 +50,7 @@ AppAsset::register($this);
                 <div class="container">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="navbar-header page-scroll">
-                        <a class="navbar-brand page-scroll" href="#page-top"><img src="imagens/logo.png" width="120" height="50" style="margin-top: -22px;"  /></a>
+                        <a class="navbar-brand page-scroll" href="#page-top"><img src="imagens/logo.png"  style="margin-top: -22px;"  /></a>
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                             <span class="sr-only">Toggle navigation</span>
                             <span class="icon-bar"></span>
