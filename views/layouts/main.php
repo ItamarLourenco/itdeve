@@ -137,20 +137,21 @@ AppAsset::register($this);
                         <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-mobile-phone fa-stack-1x fa-inverse"></i>
+                    </span>
+                            <h4 class="service-heading">App Android</h4>
+                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        </div>
+                        <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
                         <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
                             <h4 class="service-heading">Web Security</h4>
                             <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
                         </div>
 
-                    <div class="col-md-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-mobile-phone fa-stack-1x fa-inverse"></i>
-                    </span>
-                        <h4 class="service-heading">App Android</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
-                    </div>
+
                         <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -360,6 +361,8 @@ AppAsset::register($this);
                         </div>
                     </div>
 
+
+                    <div class="row">
                         <div class="col-sm-4">
                             <div class="team-member">
                                 <img src="img/team/2.jpg" height="150" width="200" class="img-responsive img-circle" alt="">
@@ -375,7 +378,6 @@ AppAsset::register($this);
                                 </ul>
                             </div>
                         </div>
-                    <div class="row">
                         <div class="col-sm-4">
                             <div class="team-member">
                                 <img src="img/team/3.jpg" height="150" width="200" class="img-responsive img-circle" alt="">
@@ -391,6 +393,22 @@ AppAsset::register($this);
                                 </ul>
                             </div>
                         </div>
+                        <div class="col-sm-4">
+                            <div class="team-member">
+                                <img src="img/team/1.jpg" height="150" width="200" class="img-responsive img-circle" alt="">
+                                <h4>Jonathan Louback</h4>
+                                <p class="text-muted">Lider Design</p>
+                                <ul class="list-inline social-buttons">
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a>
+                                    </li>
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a>
+                                    </li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
 
                     </div>
                     <div class="row">
