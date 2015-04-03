@@ -114,7 +114,7 @@ AppAsset::register($this);
                     <div class="row">
                         <div class="col-lg-12 text-center">
                             <h2 class="section-heading">Serviços</h2>
-                            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                            <h3 class="section-subheading text-muted">Nossos serviços são de extrema qualidade!</h3>
                         </div>
                     </div>
                     <div class="row text-center">
@@ -124,7 +124,7 @@ AppAsset::register($this);
                         <i class="fa fa-shopping-cart fa-stack-1x fa-inverse"></i>
                     </span>
                             <h4 class="service-heading">E-Commerce</h4>
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                            <p class="text-muted">Lojas virtuais otmizadas e pronta para venda.</p>
                         </div>
                         <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -132,7 +132,7 @@ AppAsset::register($this);
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                             <h4 class="service-heading">Design Responsivo</h4>
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                            <p class="text-muted">Layouts responsivo e pronto para qualquer configuração de vídeo e aparelho celular.</p>
                         </div>
                         <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -140,7 +140,7 @@ AppAsset::register($this);
                         <i class="fa fa-mobile-phone fa-stack-1x fa-inverse"></i>
                     </span>
                             <h4 class="service-heading">App Android</h4>
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                            <p class="text-muted">Aplicativos de acordo com suas necessidades, com ótimo indexes do google.</p>
                         </div>
                         <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -148,7 +148,7 @@ AppAsset::register($this);
                         <i class="fa fa-lock fa-stack-1x fa-inverse"></i>
                     </span>
                             <h4 class="service-heading">Web Security</h4>
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                            <p class="text-muted">Sistemas seguros, com excelentes desempenho na web para sua empresa.</p>
                         </div>
 
 
@@ -158,7 +158,7 @@ AppAsset::register($this);
                         <i class="fa fa-html5 fa-stack-1x fa-inverse"></i>
                     </span>
                             <h4 class="service-heading">Sites</h4>
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                            <p class="text-muted"> Sites dinâmicos, com leveza e qualidade que sua empresa merece.</p>
                         </div>
                         <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -166,7 +166,7 @@ AppAsset::register($this);
                         <i class="fa fa-desktop fa-stack-1x fa-inverse"></i>
                     </span>
                             <h4 class="service-heading">Sistemas</h4>
-                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                            <p class="text-muted">Sistemas Web, desktop e mobile todos interligados, pronto para sua empresa.</p>
                         </div>
                 </div>
                 </div>
@@ -178,7 +178,7 @@ AppAsset::register($this);
                     <div class="row">
                         <div class="col-lg-12 text-center">
                             <h2 class="section-heading">Portfólio</h2>
-                            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                            <h3 class="section-subheading text-muted">Nosso quadro de portifólio.</h3>
                         </div>
                     </div>
                     <div class="row">
@@ -189,11 +189,11 @@ AppAsset::register($this);
                                         <i class="fa fa-plus fa-3x"></i>
                                     </div>
                                 </div>
-                                <img src="img/portfolio/roundicons.png" class="img-responsive" alt="">
+                                <img src="img/portfolio/queropreco.png" class="img-responsive" alt="">
                             </a>
                             <div class="portfolio-caption">
-                                <h4>Round Icons</h4>
-                                <p class="text-muted">Graphic Design</p>
+                                <h4>Quero Preço.com</h4>
+                                <p class="text-muted">E-Commerce de informática</p>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -203,11 +203,11 @@ AppAsset::register($this);
                                         <i class="fa fa-plus fa-3x"></i>
                                     </div>
                                 </div>
-                                <img src="img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                                <img src="img/portfolio/vestiariofc.png" class="img-responsive" alt="">
                             </a>
                             <div class="portfolio-caption">
-                                <h4>Startup Framework</h4>
-                                <p class="text-muted">Website Design</p>
+                                <h4>Vestiário FC</h4>
+                                <p class="text-muted">E-Commerce Marketplace</p>
                             </div>
                         </div>
                         <div class="col-md-4 col-sm-6 portfolio-item">
@@ -276,7 +276,7 @@ AppAsset::register($this);
                     <div class="row">
                         <div class="col-lg-12 text-center">
                             <h2 class="section-heading">Sobre nós</h2>
-                            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                            <h3 class="section-subheading text-muted">Somos uma startup de desenvolvimento de software, sites, e-commerce, aplicativos mobile.</h3>
                         </div>
                     </div>
                     <div class="row">
@@ -289,10 +289,10 @@ AppAsset::register($this);
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
                                             <h4>2009-2011</h4>
-                                            <h4 class="subheading">Our Humble Beginnings</h4>
+                                            <h4 class="subheading">Nascimento da Empresa</h4>
                                         </div>
                                         <div class="timeline-body">
-                                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                            <p class="text-muted"> A empresa nasceu no coração do nosso CEO, e começou com uma pequena empresa, engatinhando, e se destacando no ramo de e-commerce</p>
                                         </div>
                                     </div>
                                 </li>
@@ -302,11 +302,11 @@ AppAsset::register($this);
                                     </div>
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
-                                            <h4>March 2011</h4>
-                                            <h4 class="subheading">An Agency is Born</h4>
+                                            <h4>2012-2013</h4>
+                                            <h4 class="subheading">Alcançando Grandes vôos</h4>
                                         </div>
                                         <div class="timeline-body">
-                                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                            <p class="text-muted">Conseguimos grandes clientes como queropreço.com e computerhospital.com.br, como clientes chaves do nosso crescimento, cuidando de toda infraestrutura e seus e-commerce.</p>
                                         </div>
                                     </div>
                                 </li>
@@ -316,33 +316,20 @@ AppAsset::register($this);
                                     </div>
                                     <div class="timeline-panel">
                                         <div class="timeline-heading">
-                                            <h4>December 2012</h4>
-                                            <h4 class="subheading">Transition to Full Service</h4>
+                                            <h4>2014- até hoje </h4>
+                                            <h4 class="subheading">Chegada de dois Grandes Lideres</h4>
                                         </div>
                                         <div class="timeline-body">
-                                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                            <p class="text-muted">Com a chegada de dois grandes lideres na equipe, mobile e design a empresa está pronta para trazer tudo que for preciso para sua empresa.</p>
                                         </div>
                                     </div>
                                 </li>
+
                                 <li class="timeline-inverted">
                                     <div class="timeline-image">
-                                        <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
-                                    </div>
-                                    <div class="timeline-panel">
-                                        <div class="timeline-heading">
-                                            <h4>July 2014</h4>
-                                            <h4 class="subheading">Phase Two Expansion</h4>
-                                        </div>
-                                        <div class="timeline-body">
-                                            <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="timeline-inverted">
-                                    <div class="timeline-image">
-                                        <h4>Be Part
-                                            <br>Of Our
-                                            <br>Story!</h4>
+                                        <h4>Venha fazer
+                                            <br>parte
+                                            <br>da nossa História!</h4>
                                     </div>
                                 </li>
                             </ul>
@@ -413,7 +400,7 @@ AppAsset::register($this);
                     </div>
                     <div class="row">
                         <div class="col-lg-8 col-lg-offset-2 text-center">
-                            <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                            <p class="large text-muted"></p>
                         </div>
                     </div>
                 </div>
@@ -423,7 +410,7 @@ AppAsset::register($this);
             <aside class="clients">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-3 col-sm-6">
+                       <!-- <div class="col-md-3 col-sm-6">
                             <a href="#">
                                 <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
                             </a>
@@ -443,7 +430,7 @@ AppAsset::register($this);
                                 <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
                             </a>
                         </div>
-                    </div>
+                    </div>-->
                 </div>
             </aside>
 
@@ -451,8 +438,8 @@ AppAsset::register($this);
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12 text-center">
-                            <h2 class="section-heading">Contact Us</h2>
-                            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                            <h2 class="section-heading">Contatos</h2>
+                            <h3 class="section-subheading text-muted">entre em contato conosco.</h3>
                         </div>
                     </div>
                     <div class="row">
@@ -461,11 +448,11 @@ AppAsset::register($this);
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
+                                            <input type="text" class="form-control" placeholder="Seu Nome *" id="name" required data-validation-required-message="Please enter your name.">
                                             <p class="help-block text-danger"></p>
                                         </div>
                                         <div class="form-group">
-                                            <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+                                            <input type="email" class="form-control" placeholder="Seu Email *" id="email" required data-validation-required-message="Please enter your email address.">
                                             <p class="help-block text-danger"></p>
                                         </div>
                                         <div class="form-group">
@@ -475,14 +462,14 @@ AppAsset::register($this);
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                            <textarea class="form-control" placeholder="Sua Menssagem *" id="message" required data-validation-required-message="Please enter a message."></textarea>
                                             <p class="help-block text-danger"></p>
                                         </div>
                                     </div>
                                     <div class="clearfix"></div>
                                     <div class="col-lg-12 text-center">
                                         <div id="success"></div>
-                                        <button type="submit" class="btn btn-xl">Send Message</button>
+                                        <button type="submit" class="btn btn-xl">Enviar Mensagem</button>
                                     </div>
                                 </div>
                             </form>
@@ -495,7 +482,7 @@ AppAsset::register($this);
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
-                            <span class="copyright">Copyright &copy; Your Website 2014</span>
+                            <span class="copyright">Copyright &copy; 2014 - Todos Diretos Reservados</span>
                         </div>
                         <div class="col-md-4">
                             <ul class="list-inline social-buttons">
@@ -509,10 +496,10 @@ AppAsset::register($this);
                         </div>
                         <div class="col-md-4">
                             <ul class="list-inline quicklinks">
-                                <li><a href="#">Privacy Policy</a>
+                                <!--<li><a href="#">Privacy Policy</a>
                                 </li>
                                 <li><a href="#">Terms of Use</a>
-                                </li>
+                                </li>-->
                             </ul>
                         </div>
                     </div>
@@ -536,18 +523,18 @@ AppAsset::register($this);
                             <div class="col-lg-8 col-lg-offset-2">
                                 <div class="modal-body">
                                     <!-- Project Details Go Here -->
-                                    <h2>Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-responsive" src="img/portfolio/roundicons-free.png" alt="">
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2>Quero Preço.com</h2>
+                                    <p class="item-intro text-muted">E-Commerce de vendas de produtos de Informática.</p>
+                                    <img class="img-responsive" src="img/portfolio/queropreco-preview.png" alt="">
+                                    <p>Loja Virtual de vendas de produtos de informática, desenvolvida usando a plataforma magento. A mesma possui um tema responsivo e um grande sistema de e-commerce rodando por trás de todo essa excelência de loja virtual. Juntamente com a loja desenvolvemos toda parte do servidor da loja, na qual cuidamos dele até os dias de hoje.</p>
                                     <p>
-                                        <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p>
+                                        <strong>Link do site</strong> <a href="https://www.queropreco.com">Queropreço.com</a></p>
                                     <ul class="list-inline">
-                                        <li>Date: July 2014</li>
-                                        <li>Client: Round Icons</li>
-                                        <li>Category: Graphic Design</li>
+                                        <li>Data: Outubro 2012</li>
+                                        <li>Cliente: Quero Preço.com</li>
+                                        <li>Categoria: E-commerce e Servidor Linux Centos(Cpanel)</li>
                                     </ul>
-                                    <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
+                                    <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> fechar o projeto</button>
                                 </div>
                             </div>
                         </div>
@@ -568,11 +555,16 @@ AppAsset::register($this);
                         <div class="row">
                             <div class="col-lg-8 col-lg-offset-2">
                                 <div class="modal-body">
-                                    <h2>Project Heading</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-responsive img-centered" src="img/portfolio/startup-framework-preview.png" alt="">
-                                    <p><a href="http://designmodo.com/startup/?u=787">Startup Framework</a> is a website builder for professionals. Startup Framework contains components and complex blocks (PSD+HTML Bootstrap themes and templates) which can easily be integrated into almost any design. All of these components are made in the same style, and can easily be integrated into projects, allowing you to create hundreds of solutions for your future projects.</p>
-                                    <p>You can preview Startup Framework <a href="http://designmodo.com/startup/?u=787">here</a>.</p>
+                                    <h2>Vestiario FC</h2>
+                                    <p class="item-intro text-muted">E-commerce com Marketplace para venda de artigos esportivos</p>
+                                    <img class="img-responsive img-centered" src="img/portfolio/vestiariofc-preview.png" alt="">
+                                    <p><a href="http://vestiariofc.com">Vestiário Fc</a> é um e-commerce baseado na estrutura marketplace(compra e venda). É um site responsivo e dinâmico com a qualidade magento em backend.</p>
+                                    <p><strong>Link do site</strong> <a href="http://www.vestiariofc.com">Vestiario FC</a></p>
+                                    <ul class="list-inline">
+                                        <li>Data: Fevereiro 2015</li>
+                                        <li>Cliente: Vestiário Fc.com</li>
+                                        <li>Categoria: E-commerce Marketplace e Servidor Linux Nginx</li>
+                                    </ul></p>
                                     <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                                 </div>
                             </div>
