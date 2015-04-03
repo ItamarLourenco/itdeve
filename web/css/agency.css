@@ -259,6 +259,11 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink .navbar-brand {
         font-size: 1.5em;
     }
+    .navbar-default.navbar-shrink .navbar-brand img{
+       width: 100px;
+        height: 50px;
+        margin-top: -18px;
+    }
 }
 
 header {
@@ -273,6 +278,8 @@ header {
     background-size: cover;
     -o-background-size: cover;
     margin-top: -25px;
+    height: 750px;
+
 }
 
 header .intro-text {
